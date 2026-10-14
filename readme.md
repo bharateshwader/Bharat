@@ -1,1 +1,1 @@
-"Hello I am of GIT college Belagavi"Hii
+"Hello I am at GIT college Belagavi"Hii
